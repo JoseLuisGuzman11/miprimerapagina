@@ -39,6 +39,10 @@ header nav ul {
 }
 
 /*MAIN*/
+
+.greeting {
+  background-color: #292;
+}
 /*SECTION 1*/
 .seccion-1 {
   display: flex;
