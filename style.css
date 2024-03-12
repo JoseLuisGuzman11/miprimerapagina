@@ -39,9 +39,10 @@ header nav ul {
 }
 
 /*MAIN*/
-
 .greeting {
   background-color: #292;
+  text-align: center;
+  color: #fff;
 }
 /*SECTION 1*/
 .seccion-1 {
